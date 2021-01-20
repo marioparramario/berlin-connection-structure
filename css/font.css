@@ -1,0 +1,44 @@
+/* @font-face {
+    font-family: 'gt_pressura_monoregular';
+    src: url('../assets/fonts/gt-pressura-mono-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/gt-pressura-mono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ Light';
+    src: url('../assets/fonts/AkzidenzGroteskBQ-Light.woff2') format('woff2'),
+        url('../assets/fonts/AkzidenzGroteskBQ-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ MedExt';
+    src: url('../assets/fonts/AkzidenzGroteskBQ-MedExt.woff2') format('woff2'),
+        url('../assets/fonts/AkzidenzGroteskBQ-MedExt.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ Medium';
+    src: url('../assets/fonts/AkzidenzGroteskBQ-Medium.woff2') format('woff2'),
+        url('../assets/fonts/AkzidenzGroteskBQ-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ CndIt';
+    src: url('../assets/fonts/AkzidenzGroteskBQ-CndIt.woff2') format('woff2'),
+        url('../assets/fonts/AkzidenzGroteskBQ-CndIt.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}

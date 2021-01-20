@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ';
+    src: url('AkzidenzGroteskBQ-Light.woff2') format('woff2'),
+        url('AkzidenzGroteskBQ-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ';
+    src: url('AkzidenzGroteskBQ-MedExt.woff2') format('woff2'),
+        url('AkzidenzGroteskBQ-MedExt.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ';
+    src: url('AkzidenzGroteskBQ-Medium.woff2') format('woff2'),
+        url('AkzidenzGroteskBQ-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk BQ';
+    src: url('AkzidenzGroteskBQ-CndIt.woff2') format('woff2'),
+        url('AkzidenzGroteskBQ-CndIt.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
